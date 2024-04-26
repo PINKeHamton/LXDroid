@@ -1,6 +1,6 @@
 # LXDroid
 
-LXDroid will be an android app runner using contaners
+LXDroid will be an android app runner using contaners for linux xorg
 
 ## TODO
 
